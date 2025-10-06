@@ -1,0 +1,11 @@
+{
+  "name": "self-executable-destroyable-contract",
+  "version": "1.0.0",
+  "description": "Blockchain-Based Self-Executable & Destroyable Smart Contract",
+  "scripts": {
+    "start": "live-server frontend"
+  },
+  "dependencies": {
+    "web3": "^1.10.0"
+  }
+}
